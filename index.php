@@ -11,7 +11,7 @@
 					<table>
 						<tr>
 							<th>Max: Z = </th>
-							<td><input type="text" id="funcaoObjetivo" tabindex="1" maxlength="12" size="17"></td>
+							<td><input type="text" id="funcaoObjetivo" tabindex="1" maxlength="12" size="20"></td>
 						</tr>
 					</table>
 				</fieldset>
@@ -20,7 +20,3 @@
 	</table>
 </body>
 </html>	
-<?php 
-	 
-	
-?>
